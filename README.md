@@ -1,4 +1,4 @@
-# [2017 fall] Data Structure and Programming Final
+# [2017 Fall] Data Structure and Programming Final
 ### FRAIG (Functionally Reduced And-Inverter Graph)
 
 Designed and implemented algorithm to reduce gate counts of circuits with functional equivalence.</br>
