@@ -1,0 +1,211 @@
+cirr test/opt01.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt02.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt03.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt04.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt05.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt06.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt07.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt08.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt09.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt10.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt11.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt12.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt13.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt14.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirr test/opt15.aag -r
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirsw
+ciropt
+cirstrash
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+q -f

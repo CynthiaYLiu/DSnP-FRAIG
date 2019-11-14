@@ -1,0 +1,91 @@
+cirr ../test/sim01.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim02.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim03.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim04.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim05.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim06.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim07.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim08.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim09.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim10.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim11.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim12.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim13.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim14.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+cirr ../test/sim15.aag -r
+cirp -n
+cirstra
+cirp -n
+ciropt
+cirp -n
+q -f

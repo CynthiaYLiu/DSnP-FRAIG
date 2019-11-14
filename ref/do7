@@ -1,0 +1,6 @@
+cirr ../test/sim13.aag -r
+cirsim -f ../test/pattern.13
+usage
+q -f
+
+

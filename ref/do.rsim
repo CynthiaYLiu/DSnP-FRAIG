@@ -1,0 +1,7 @@
+cirr test/sim13.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -r
+usage
+q -f

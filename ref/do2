@@ -1,0 +1,4 @@
+cirr ../test/sim02.aag -r
+cirsim -f ../test/pattern.02
+cirp -fec
+q -f

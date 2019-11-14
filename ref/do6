@@ -1,0 +1,23 @@
+cirr ../test/sim09.aag -r
+cirsim -f ../test/pattern.09
+cirp -fec
+cirr ../test/sim10.aag -r
+cirsim -f ../test/pattern.10
+cirp -fec
+cirr ../test/sim11.aag -r
+cirsim -f ../test/pattern.11
+cirp -fec
+cirr ../test/sim12.aag -r
+cirsim -f ../test/pattern.12
+cirp -fec
+cirr ../test/sim13.aag -r
+cirsim -f ../test/pattern.13
+cirp -fec
+cirr ../test/sim14.aag -r
+cirsim -f ../test/pattern.14
+cirp -fec
+cirr ../test/sim15.aag -r
+cirsim -f ../test/pattern.15
+cirp -fec
+q -f
+

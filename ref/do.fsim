@@ -1,0 +1,91 @@
+cirr test/sim01.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.01
+usage
+cirr test/sim02.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.02
+usage
+cirr test/sim03.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.03
+usage
+cirr test/sim04.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.04
+usage
+cirr test/sim05.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.05
+usage
+cirr test/sim06.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.06
+usage
+cirr test/sim07.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.07
+usage
+cirr test/sim08.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.08
+usage
+cirr test/sim09.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.09
+usage
+cirr test/sim10.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.10
+usage
+cirr test/sim11.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.11
+usage
+cirr test/sim12.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.12
+usage
+cirr test/sim13.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.13
+usage
+cirr test/sim14.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.14
+usage
+cirr test/sim15.aag -r
+cirsweep
+ciropt
+cirstrash
+cirsim -file test/pattern.15
+usage
+q -f

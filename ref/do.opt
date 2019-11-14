@@ -1,0 +1,155 @@
+cirr test/opt01.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt02.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt03.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt04.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt05.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt06.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/opt07.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim01.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim02.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim03.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim04.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim05.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim06.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim07.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim08.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim09.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim10.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim11.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim12.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim13.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim14.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+cirr test/sim15.aag -r
+cirsw
+usage
+ciropt
+usage
+cirstrash
+usage
+q -f

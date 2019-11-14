@@ -1,0 +1,28 @@
+cirr test/sim12.aag -r
+cirstrash
+ciropt
+ciropt
+cirp -fl
+cirsim -file test/pattern.12
+usage
+cirp -fec
+usage
+cirg 4575
+cirg 5783
+cirg 8760
+cirr test/sim13.aag -r
+cirstrash
+ciropt
+ciropt
+cirp -fl
+cirsim -file test/pattern.13
+usage
+cirp -fec
+usage
+cirg 84800
+cirg 66120
+cirg 47377
+cirg 8918
+cirr test/sim13.aag -r
+cirp
+q -f

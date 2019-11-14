@@ -1,0 +1,10 @@
+fraig> cirr ../test/sim02.aag -r
+
+fraig> cirsim -f ../test/pattern.02
+Total #FEC Group = 120 patterns simulated.
+
+fraig> cirp -fec
+[0] 6 !8
+
+fraig> q -f
+
